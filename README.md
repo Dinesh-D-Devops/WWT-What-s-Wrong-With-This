@@ -1,7 +1,7 @@
 ## **Exercise: WWT (What’s Wrong With This)**
 
 ### **Project Overview**
-*   **Objective:** Identify issues related to repository hygiene, data integrity, and configuration through observation and reasoning[cite: 1].
+*   **Objective:** Identify issues related to repository hygiene, data integrity, and configuration through observation and reasoning.
 
 ---
 
